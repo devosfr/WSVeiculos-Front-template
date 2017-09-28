@@ -198,14 +198,14 @@
 	.logoText:nth-child(2){
 		opacity: 0;
 		animation-duration: 8s;
-		animation-delay: 5s;
+		animation-delay: 6s;
 		width: 300px
 	}
 
 	.logoText:nth-child(3){
 		opacity: 0;
-	    animation-duration: 13s;
-		animation-delay: 20s;
+	    animation-duration: 8s;
+		animation-delay: 10s;
 	}
 
 	@keyframes logoTexts{
@@ -213,6 +213,21 @@
 		50%{ opacity: 0 }
 	}
 
+    .contentContact{
+    	width: 70%; 
+    	margin: 0 auto;
+    	margin-bottom: 200px
+    }
+
+    .contentContact h1{
+    	color: #df726b
+    }
+
+      
+    .contentContact button {
+        background-color: #a3514c;
+        color: #fff
+    }
 
 	@media screen and (min-width: 737px) {
 
