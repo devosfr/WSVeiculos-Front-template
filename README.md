@@ -1,7 +1,6 @@
-# https://devosfr.github.io/WSVeiculos-Front/
-## Olá 👋!
+# <h2> https://devosfr.github.io/WSVeiculos-Front/ </h2>
 
-- 🔭 Olá, este projeto é um template que fiz, utilizando html, javascript, recursos e animações em css3.
+- Olá 👋! Este projeto é um template que fiz, utilizando html, javascript, recursos e animações em css3.
 
 
 <div style="display: inline_block"><br>
